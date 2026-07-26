@@ -30,7 +30,7 @@ function VerifyOTP() {
 
       const res = await axios.post(
 
-        "http://localhost:5000/api/admin/verify-otp",
+        "https://examsitting.onrender.com/api/admin/verify-otp",
 
         {
 

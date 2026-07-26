@@ -71,7 +71,7 @@ function AdminProfile() {
   // ==========================
 
 
-  const IMAGE_URL = "http://localhost:5000/uploads/";
+  const IMAGE_URL = "https://examsitting.onrender.com/uploads/";
 
 
 

@@ -1,5 +1,5 @@
 export const API_URL =
-  "http://localhost:5000/api";
+  "https://examsitting.onrender.com/api";
 
 export const APP_NAME =
   "Exam Seating Arrangement System";

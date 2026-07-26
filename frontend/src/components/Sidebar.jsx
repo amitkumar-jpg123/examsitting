@@ -111,7 +111,7 @@ function Sidebar({ closeSidebar }) {
       >
         {admin?.profileImage ? (
           <img
-            src={`http://localhost:5000/uploads/${admin.profileImage}`}
+            src={`https://examsitting.onrender.com/uploads/${admin.profileImage}`}
             alt="Profile"
             className="
             w-20

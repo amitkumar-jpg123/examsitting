@@ -606,7 +606,7 @@ admin?.profileImage
 
 src={
 
-`http://localhost:5000/uploads/${admin.profileImage}`
+`https://examsitting.onrender.com/uploads/${admin.profileImage}`
 
 }
 

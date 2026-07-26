@@ -21,7 +21,7 @@ function ForgotPassword() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/admin/forgot-password",
+        "https://examsitting.onrender.com/api/admin/forgot-password",
         {
           email,
         }

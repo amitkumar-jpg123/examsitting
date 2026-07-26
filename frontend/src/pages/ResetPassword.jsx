@@ -64,7 +64,7 @@ function ResetPassword() {
 
       const res = await axios.put(
 
-        "http://localhost:5000/api/admin/reset-password",
+        "https://examsitting.onrender.com/api/admin/reset-password",
 
         {
 
