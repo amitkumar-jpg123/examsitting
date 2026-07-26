@@ -2,8 +2,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 
 import heroBg from "../assets/examhall.jpg";
-import examImg from "../assets/exam.jpg";
-
+import examImg from "../assets/Exam.jpg";
 import { FaArrowRight } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 
